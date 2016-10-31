@@ -1,0 +1,4 @@
+C:\Users\gnk140030\Downloads\VoiceFeaturesOnly-2014-12-04\VoiceFeaturesOnly\1002_hin_phn-ENG_1_SR_feat.mat
+C:\Users\gnk140030\Downloads\VoiceFeaturesOnly-2014-12-04\VoiceFeaturesOnly\1002_hin_phn-HIN_1_SR_feat.mat
+C:\Users\gnk140030\Downloads\VoiceFeaturesOnly-2014-12-04\VoiceFeaturesOnly\1002_hin_phn-ENG_2_SR_feat.mat
+C:\Users\gnk140030\Downloads\VoiceFeaturesOnly-2014-12-04\VoiceFeaturesOnly\1002_hin_phn-HIN_2_SR_feat.mat
